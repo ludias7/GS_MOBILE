@@ -2,13 +2,9 @@ BACK-END - GLOBAL SOLUTION
 -----------------------------------------------
 Funcionalidades
 - Gerenciamento do status das estações de recarga (em uso ou disponíveis).
-- 
 - API dedicada para autenticação de usuários.
-- 
 - Integração completa com o banco de dados.
-- 
 - Exibição detalhada das estações de recarga disponíveis.
-
 - Processo de recarga visual (%)
 
 -------------------------------------------------
